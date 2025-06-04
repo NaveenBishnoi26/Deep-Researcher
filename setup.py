@@ -1,0 +1,32 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="research_pipeline",
+    version="0.1.0",
+    packages=find_packages(),
+    install_requires=[
+        'langchain',
+        'langchain-community',
+        'langchain-openai',
+        'openai',
+        'python-dotenv',
+        'beautifulsoup4',
+        'requests',
+        'aiohttp',
+        'ratelimit',
+        'asyncio',
+        'arxiv',
+        'duckduckgo-search',
+        'google-api-python-client',
+        'google-search-results',
+        'tavily-python',
+        'exa-py',
+        'pypdf',
+        'markdown',
+        'tqdm',
+        'rich',
+        'pytest',
+        'pytest-asyncio'
+    ],
+    python_requires='>=3.8',
+) 
