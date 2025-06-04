@@ -1,0 +1,8 @@
+{
+  "query": "\n2025-05-12 02:32:46,203 - WARNING - Error importing from app.py: No module named 'pdfkit'. Using dummy implementation.\n2025-05-12 02:32:49,694 - WARNING - Error importing from app.py: No module named 'pdfkit'. Using dummy implementation.\n2025-05-12 02:32:50,920 - WARNING - Error importing from app.py: No module named 'pdfkit'. Using dummy implementation.",
+  "timestamp": "2025-05-12T02:33:35.116445",
+  "state": {
+    "status": "started"
+  },
+  "metadata": {}
+}
